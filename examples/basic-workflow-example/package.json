@@ -1,0 +1,20 @@
+{
+  "name": "basic-workflow-example",
+  "version": "0.1.0",
+  "description": "Basic Alfred Workflow in NodeJS example.",
+  "dependencies": {
+    "alfred-workflow": "*"
+  },
+  "main": "workflow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alfred",
+    "workflow",
+    "example",
+    "alfred-workflow"
+  ],
+  "author": "Manfred Touron <m@42.am>",
+  "license": "MIT"
+}
