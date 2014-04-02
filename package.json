@@ -1,0 +1,31 @@
+{
+  "name": "alfred-workflow",
+  "version": "0.1.0",
+  "description": "Alfred Workflow using NodeJS",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "debug": "0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moul/node-alfred-workflow"
+  },
+  "keywords": [
+    "alfred",
+    "alfred2",
+    "alfred-workflow",
+    "workflow"
+  ],
+  "author": "Manfred Touron <m@42.am>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moul/node-alfred-workflow/issues"
+  },
+  "homepage": "https://github.com/moul/node-alfred-workflow"
+}
