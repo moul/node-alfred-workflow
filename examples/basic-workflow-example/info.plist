@@ -89,9 +89,9 @@ NodeAlfredWorkflow().run_file('workflow.js', args='{query}'.split(' '))</string>
 				<key>argumenttype</key>
 				<integer>1</integer>
 				<key>keyword</key>
-				<string>nodejs-example-python</string>
+				<string>nodejs-example</string>
 				<key>subtext</key>
-				<string>Run NodeJS code with "python" binary</string>
+				<string>Pass arguments to NodeJS script</string>
 				<key>text</key>
 				<string>NodeJS Python</string>
 				<key>withspace</key>
