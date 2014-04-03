@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Basic Alfred Workflow in NodeJS example.",
   "dependencies": {
-    "alfred-workflow": "*"
+    "alfred-workflow": "0.1.0"
   },
   "main": "workflow.js",
   "scripts": {
